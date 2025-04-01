@@ -8,17 +8,17 @@
 
 ---
 
-**Scenario** : _Buttercup Checkout_ 서비스의 운영팀은 아래 이미지와 같은 것을 보고싶어합니다. ITSI 관리자는 이미 어떤 KPI를 사용할지 파악하고 요구사항이 포함된 아래 표를 만들었습니다.
+**Scenario** : _Buttercup Retail_ 서비스의 운영팀은 아래 이미지와 같은 것을 보고싶어합니다. ITSI 관리자는 이미 어떤 KPI를 사용할지 파악하고 요구사항이 포함된 아래 표를 만들었습니다.
 
 ---
 
 | Glass Table Icon Title      | KPI/Service Name in ITSI | Nots                                |
 | --------------------------- | ------------------------ | ----------------------------------- |
-| Current Health              | Buttercup Checkout SHC   |                                     |
+| Current Health              | Buttercup Retail SHC     |                                     |
 | Predicted Health in 30 min. | Ad hoc search            | From Predictive Analytics Dashboard |
-| Volume                      | Volume                   | Volume KPI                          |
-| Views                       | Views                    | Views KPI                           |
-| Purchases                   | Purchases                | Purchases KPI                       |
+| Call Center Volume          | Call Center Volume       | Call Center Volume KPI              |
+| Customer Sentiment          | Customer Sentiment       | Customer Sentiment KPI              |
+| Promotional Engagement      | Promotional Engagement   | Promotional Engagement KPI          |
 
 아래 이미지는 이 실습에 포함된 모든 과제의 결과를 보여줍니다.
 
